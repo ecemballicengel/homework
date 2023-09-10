@@ -1,0 +1,29 @@
+table {
+  background-color: skyblue;
+  color: dimgrey;
+  width: 100%;
+  padding: 15px;
+  margin-top: 10px;
+  border-bottom: 10px;
+  font-family: "Roboto", sans-serif;
+}
+td {
+  padding: 15px;
+  text-align: left;
+}
+thead,
+tfoot {
+  text-align: center;
+}
+img {
+  padding: 15px;
+  width: 300px;
+  height: 300px;
+}
+a {
+  text-decoration: none !important;
+  color: inherit;
+}
+a:hover {
+  color: rgb(16, 90, 228);
+}
